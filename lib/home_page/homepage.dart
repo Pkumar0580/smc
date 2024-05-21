@@ -384,7 +384,7 @@ class _HomePageState extends State<HomePage> {
                 child: const Row(
                   children: [
                     Text(
-                      'Popular Workshops',
+                      'Latest Sessions',
                       style: TextStyle(
                         color: Color(0xFF1F0A68),
                         fontSize: 20,
